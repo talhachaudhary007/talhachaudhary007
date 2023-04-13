@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Javed</h1>
-<h3 align="center">A passionate Web Developer from Pakistan</h3>
+<h3 align="center">A passionate Web Developer from Paksitan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhachaudhary007&label=Profile%20views&color=0e75b6&style=flat" alt="talhachaudhary007" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **talhach1353@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PJRnmaSNtW5JydjDnf8aS2OfkrulElDR/view?usp=sharing](https://drive.google.com/file/d/1PJRnmaSNtW5JydjDnf8aS2OfkrulElDR/view?usp=sharing)
+- 📄 Resume Link [https://drive.google.com/file/d/1PJRnmaSNtW5JydjDnf8aS2OfkrulElDR/view?usp=sharing](https://drive.google.com/file/d/1PJRnmaSNtW5JydjDnf8aS2OfkrulElDR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
