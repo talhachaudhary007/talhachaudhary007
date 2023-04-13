@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Javed</h1>
-<h3 align="center">A passionate Web Developer from Paksitan</h3>
+<h3 align="center">Web Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhachaudhary007&label=Profile%20views&color=0e75b6&style=flat" alt="talhachaudhary007" /> </p>
 
