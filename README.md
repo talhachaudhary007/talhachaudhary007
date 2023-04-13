@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhachaudhary007&label=Profile%20views&color=0e75b6&style=flat" alt="talhachaudhary007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **Agrizon**
 
 - 🌱 I’m currently learning **PHP, MySql, Laravel**
@@ -16,6 +14,8 @@
 - 💬 Ask me about **Development**
 
 - 📫 How to reach me **talhach1353@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PJRnmaSNtW5JydjDnf8aS2OfkrulElDR/view?usp=sharing](https://drive.google.com/file/d/1PJRnmaSNtW5JydjDnf8aS2OfkrulElDR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
