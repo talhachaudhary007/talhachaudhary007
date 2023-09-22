@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP, MySql, JS, HTML, CSS, Bootstrap**
 
-- 👯 I’m looking to collaborate on **https://www.cybrilforge.tech**
+- 👯 I’m looking to collaborate on Cybrilforge Internationals **https://www.cybrilforge.tech**
 
 - 👨‍💻 All of my projects are available at [github.com/talhachaudhary007](github.com/talhachaudhary007)
 
