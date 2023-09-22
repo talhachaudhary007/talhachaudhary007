@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhachaudhary007&label=Profile%20views&color=0e75b6&style=flat" alt="talhachaudhary007" /> </p>
 
-- 🔭 I’m currently working on **Agrizon**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **PHP, MySql, Laravel**
+- 🌱 I’m currently learning **PHP, MySql, JS, HTML, CSS, Bootstrap**
 
 - 👯 I’m looking to collaborate on **https://www.cybrilforge.tech**
 
