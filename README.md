@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm currently working as a **Full Stack Web Developer** at **www.milleniumdevelopers.com**
 
-- 👨🏻‍🎓 Bachelor's in Computer Science from **COMSATS University Islamabad**
+- 🎓 Bachelor's in Computer Science from **COMSATS University Islamabad**
 
 - 💡 I've experties as a Back-end Dev in **PHP, MySql, jQuery, Ajax, Json**
 
@@ -17,7 +17,7 @@
 
 - 🔗 Reach out to me through LinkedIn for collaboration opportunities **www.linkedin.com/in/talhachaudhary007**
 
-- 📫 How to reach me?  Mail: **talhajaved.info@gmail.com** or Whatsapp: **+92 3246761804**
+- 📫 How to reach me? Whatsapp: **+92 3246761804** or  Mail: **talhajaved.info@gmail.com**
 
 - 💬 I'm seeking collaborative opportunities to further enhance my skills and contribute to impactful projects
 
@@ -28,7 +28,6 @@
 <a href="https://linkedin.com/in/talhachaudhary007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhachaudhary007" height="30" width="40" /></a>
 <a href="https://fb.com/talhachaudhary007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="talhachaudhary007" height="30" width="40" /></a>
 <a href="https://instagram.com/talhachaudhary007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talhachaudhary007" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
