@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Talha Javed</h1>
-<h3 align="center">Web Developer from Pakistan</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhachaudhary007&label=Profile%20views&color=0e75b6&style=flat" alt="talhachaudhary007" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 👨‍💻 I'm currently working as a **Full Stack Web Developer** at **www.milleniumdevelopers.com**
 
-- 🌱 I’m currently learning **PHP, MySql, JS, HTML, CSS, Bootstrap**
+- 👨🏻‍🎓 Bachelor's in Computer Science from **COMSATS University Islamabad**
 
-- 👯 I’m looking to collaborate on Cybrilforge Internationals **https://www.cybrilforge.tech**
+- 💡 I've experties as a Back-end Dev in **PHP, MySql, jQuery, Ajax, Json**
 
-- 👨‍💻 All of my projects are available at [github.com/talhachaudhary007](github.com/talhachaudhary007)
+- 💡 As a Front-end Dev in **HTML5, CSS, JS, Bootstrap**
 
-- 💬 Ask me about **Development**
+- 👨🏻‍💼 Chief Executive Officer of Cybrilforge Internationals **www.cybrilforge.tech**
 
-- 📫 How to reach me **talhach1353@gmail.com**
+- 📋 All of my projects are available at (github.com/talhachaudhary007)
+
+- 🔗 Reach out to me through LinkedIn for collaboration opportunities **www.linkedin.com/in/talhachaudhary007**
+
+- 📫 How to reach me?  Mail: **talhajaved.info@gmail.com** or Whatsapp: **+92 3246761804**
+
+- 💬 I'm seeking collaborative opportunities to further enhance my skills and contribute to impactful projects
 
 - 📄 Resume Link [https://drive.google.com/file/d/1PJRnmaSNtW5JydjDnf8aS2OfkrulElDR/view?usp=sharing](https://drive.google.com/file/d/1PJRnmaSNtW5JydjDnf8aS2OfkrulElDR/view?usp=sharing)
 
@@ -22,6 +28,7 @@
 <a href="https://linkedin.com/in/talhachaudhary007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talhachaudhary007" height="30" width="40" /></a>
 <a href="https://fb.com/talhachaudhary007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="talhachaudhary007" height="30" width="40" /></a>
 <a href="https://instagram.com/talhachaudhary007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="talhachaudhary007" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
