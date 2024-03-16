@@ -21,7 +21,7 @@
 
 - 💬 I'm seeking collaborative opportunities to further enhance my skills and contribute to impactful projects
 
-- 📄 Resume Link [https://drive.google.com/file/d/1PJRnmaSNtW5JydjDnf8aS2OfkrulElDR/view?usp=sharing](https://drive.google.com/file/d/1PJRnmaSNtW5JydjDnf8aS2OfkrulElDR/view?usp=sharing)
+- 📄 Resume Link: https://drive.google.com/file/d/1-hJB9biWuDrgYibiUYHQxuUxExrI2lMo 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
