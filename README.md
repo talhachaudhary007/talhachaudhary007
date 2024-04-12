@@ -11,7 +11,7 @@
 
 - 💡 As a Front-end Dev in **HTML5, CSS, JS, Bootstrap**
 
-- 👨🏻‍💼 Chief Executive Officer of Cybrilforge Internationals **www.cybrilforge.tech**
+- 👨🏻‍💼 Chief Executive Officer of CybrillTech Inc. **www.cybrilltech.com**
 
 - 📋 All of my projects are available at (github.com/talhachaudhary007)
 
