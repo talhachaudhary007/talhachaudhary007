@@ -7,11 +7,11 @@
 
 - 🎓 Bachelor's in Computer Science from **COMSATS University Islamabad**
 
-- 💡 I've experties as a Back-end Dev in **PHP, MySql, jQuery, Ajax, Json**
+- 💡 As a Back-end Dev in **PHP, MySql, jQuery, Ajax, Json**
 
 - 💡 As a Front-end Dev in **HTML5, CSS, JS, Bootstrap**
 
-- 👨🏻‍💼 Chief Executive Officer of CybrillTech Inc. **www.cybrilltech.com**
+- 👨🏻‍💼 Sr. Web developer at CybrillTech Inc. **www.cybrilltech.com**
 
 - 📋 All of my projects are available at (github.com/talhachaudhary007)
 
