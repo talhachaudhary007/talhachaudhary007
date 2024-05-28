@@ -11,7 +11,7 @@
 
 - 💡 As a Front-end Dev in **HTML5, CSS, JS, Bootstrap**
 
-- 👨🏻‍💼 Sr. Web developer at CybrillTech Inc. **www.cybrilltech.com**
+- 👨🏻‍💼 Sr. Fullstack Web developer at CybrillTech Inc. **www.cybrilltech.com**
 
 - 📋 All of my projects are available at (github.com/talhachaudhary007)
 
